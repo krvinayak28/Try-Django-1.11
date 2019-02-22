@@ -1,0 +1,869 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"contactForm"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"IMAGEI",
+				"IMAGEICON\tJavax Class"
+			],
+			[
+				"JB",
+				"JBUTTON\tJavax Class"
+			],
+			[
+				"A",
+				"ActionEvent"
+			],
+			[
+				"JOptio",
+				"I-JOptionPane\tinit"
+			],
+			[
+				"ActionLis",
+				"ActionListener"
+			],
+			[
+				"setRollover",
+				"setRolloverIcon()\tfunc"
+			],
+			[
+				"setLa",
+				"setLayout()\tfunc"
+			],
+			[
+				"ACT",
+				"ACTION\tCom Class"
+			],
+			[
+				"setDefa",
+				"setDefaultCloseOperation\t(Apples.java)"
+			],
+			[
+				"getSou",
+				"getSource()\tfunc"
+			],
+			[
+				"actionPerfor",
+				"S-ACTION_PERFORMED\tstatic"
+			],
+			[
+				"imp",
+				"implements"
+			],
+			[
+				"addA",
+				"addActionListener()\tfunc"
+			],
+			[
+				"it",
+				"item1"
+			],
+			[
+				"pa",
+				"passwordFeild"
+			],
+			[
+				"Jte",
+				"JTextField"
+			],
+			[
+				"JPa",
+				"JPasswordField"
+			],
+			[
+				"JTex",
+				"JTextField"
+			],
+			[
+				"JFra",
+				"JFrame"
+			],
+			[
+				"JText",
+				"JTEXTFIELD\tJavax Class"
+			],
+			[
+				"Action",
+				"ACTION\tCom Class"
+			],
+			[
+				"Actio",
+				"ACTIONEVENT\tJava Class"
+			],
+			[
+				"setVi",
+				"setVisible()\tfunc"
+			],
+			[
+				"J",
+				"JLabel"
+			],
+			[
+				"jopt",
+				"I-JOptionPane\tinit"
+			],
+			[
+				"sec",
+				"secondNum"
+			],
+			[
+				"fir",
+				"firstNum"
+			],
+			[
+				"show",
+				"showMessageDialog()\tfunc"
+			],
+			[
+				"im",
+				"import\t(BRRead.java)"
+			],
+			[
+				"st",
+				"str"
+			],
+			[
+				"eq",
+				"equals()\tfunc"
+			],
+			[
+				"thro",
+				"throws\t(BRRead.java)"
+			],
+			[
+				"re",
+				"read()\tfunc"
+			],
+			[
+				"newStre",
+				"newInputStream()\tfunc"
+			],
+			[
+				"Buffere",
+				"I-BufferedReader\tinit"
+			],
+			[
+				"S-Fe",
+				"S-FEBRUARY\tstatic"
+			],
+			[
+				"S-Au",
+				"S-AUGUST\tstatic"
+			],
+			[
+				"Buffered",
+				"BUFFEREDREADER\tJava Class"
+			],
+			[
+				"RAnDO",
+				"RANDOM\tJava Class"
+			],
+			[
+				"Sys",
+				"System.out.println"
+			],
+			[
+				"Sy",
+				"System.out.println(\"a\t(practice1.java)"
+			],
+			[
+				"odd",
+				"oddOrEven"
+			],
+			[
+				"S",
+				"Scanner"
+			],
+			[
+				"next",
+				"nextInt()\tfunc"
+			],
+			[
+				"Syste",
+				"System.out.println\t(practice1.java)"
+			],
+			[
+				"ne",
+				"next\tfunc"
+			],
+			[
+				"cur",
+				"currentCurrencySymbol"
+			],
+			[
+				"curr",
+				"currentCurrencySymbol"
+			],
+			[
+				"locatin",
+				"location\tfunc"
+			],
+			[
+				"con",
+				"convertCurrency"
+			],
+			[
+				"mon",
+				"moneySpentPerDayUsd"
+			],
+			[
+				"Syst",
+				"System.out.print"
+			],
+			[
+				"mo",
+				"moneySpentPerDay"
+			],
+			[
+				"minu",
+				"minutes()\tfunc - FX"
+			],
+			[
+				"nex",
+				"nextInt()\tfunc"
+			],
+			[
+				"cu",
+				"currencySymbol"
+			],
+			[
+				"Scanner",
+				"SCANNER\tJava* Class"
+			],
+			[
+				"print",
+				"println()\tfunc"
+			],
+			[
+				"m",
+				"m\tmethod"
+			],
+			[
+				"sum",
+				"sumDouble"
+			],
+			[
+				"prin",
+				"printVariables"
+			],
+			[
+				"nextI",
+				"nextInt()\tfunc"
+			],
+			[
+				"exit",
+				"exit()\tfunc"
+			],
+			[
+				"new",
+				"newFreq"
+			],
+			[
+				"SCANN",
+				"SCANNER\tJava* Class"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"RAN",
+				"RANDOM\tJava Class"
+			],
+			[
+				"Ran",
+				"random()\tfunc"
+			],
+			[
+				"Sysem",
+				"System\t(Averageprogram.java)"
+			],
+			[
+				"wh",
+				"while"
+			],
+			[
+				"n",
+				"nextInt"
+			],
+			[
+				"t",
+				"tunaObject1"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"tuna",
+				"tunaObject\t(methods.java)"
+			],
+			[
+				"el",
+				"elif\telse if"
+			],
+			[
+				"tota",
+				"total"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"leng",
+				"length\tfunc"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"ar",
+				"AreaofCircle"
+			],
+			[
+				"a",
+				"area\t(AreaofCircle.java)"
+			],
+			[
+				"Are",
+				"Area\t(AreaofCircle.java)"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"Li",
+				"Light"
+			],
+			[
+				"p",
+				"println"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"tw",
+				"twitter.com"
+			],
+			[
+				"pi",
+				"pinterest.com"
+			],
+			[
+				"met",
+				"method\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fun",
+				"function\t(app.js)"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"requ",
+				"request\t(first_request.js)"
+			],
+			[
+				"cons",
+				"console.log('body"
+			],
+			[
+				"fre",
+				"friends"
+			],
+			[
+				"bod",
+				"bodyParser"
+			],
+			[
+				"title",
+				"title"
+			],
+			[
+				"th",
+				"thingVar\t(love.ejs)"
+			],
+			[
+				"lov",
+				"lov.ejs\t(love.ejs)"
+			],
+			[
+				"app",
+				"app.get"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"sub",
+				"subredditName"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"col",
+				"colorDisplay\t(colorgame.js)"
+			],
+			[
+				"wi",
+				"winningScore"
+			],
+			[
+				"num",
+				"numInput"
+			],
+			[
+				"winn",
+				"winningScore"
+			],
+			[
+				"nu",
+				"numInput"
+			],
+			[
+				"p2",
+				"p2Display"
+			],
+			[
+				"p1",
+				"p1Display"
+			],
+			[
+				"r",
+				"resetButton"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"dele",
+				"deleteTodo"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"tod",
+				"todos"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"to",
+				"todos"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"font",
+				"font-awesome"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"javatar",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"ejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"ins",
+			"javac ",
+			"cd",
+			"package control",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/krvinayak28/djangogirls/myvenv/lib/python3.6/site-packages/django/db/models/query.py",
+		"/Users/krvinayak28/learnDjango/tryDjango/src/contact/views.py",
+		"/Users/krvinayak28/learnDjango/tryDjango/src/contact/forms.py",
+		"/Users/krvinayak28/learnDjango/tryDjango/src/profiles/views.py",
+		"/Users/krvinayak28/learnDjango/tryDjango/src/profiles/templates/navbar.html",
+		"/Users/krvinayak28/learnDjango/tryDjango/src/tryTen/urls.py",
+		"/Users/krvinayak28/learnDjango/tryDjango/src/profiles/forms.py",
+		"/Users/krvinayak28/learnDjango/tryDjango/src/profiles/templates/about.html",
+		"/Users/krvinayak28/learnDjango/tryDjango/src/contact/templates/contact.html",
+		"/Users/krvinayak28/learnDjango/tryDjango/src/tryTen/settings.py",
+		"/Users/krvinayak28/learnDjango/tryDjango/src/profiles/templates/home.html",
+		"/Users/krvinayak28/learnDjango/tryDjango/src/profiles/templates/base.html",
+		"/Users/krvinayak28/Desktop/New Folder With Items 2/codingChallenge/firework.js",
+		"/Users/krvinayak28/Downloads/craft/index.html",
+		"/Users/krvinayak28/Downloads/craft/images/g12.jpg",
+		"/Users/krvinayak28/Downloads/Folders/bored/Python for Security Professionals - Module 3 Journeyman Python Part 1 Slides from Cybrary.IT on Vimeo_files/player.js",
+		"/Users/krvinayak28/Downloads/The Score - Stronger.srt",
+		"/Users/krvinayak28/Desktop/codingChallenge/Rain/sketch.js",
+		"/Users/krvinayak28/Desktop/codingChallenge/Rain/index.html",
+		"/Users/krvinayak28/Desktop/codingChallenge/Rain/drop.js",
+		"/Users/krvinayak28/Desktop/codingChallenge/firework.js",
+		"/Users/krvinayak28/Desktop/codingChallenge/index.html",
+		"/Users/krvinayak28/Desktop/codingChallenge/particle.js",
+		"/Users/krvinayak28/Desktop/codingChallenge/sketch.js",
+		"/Users/krvinayak28/Desktop/codingChallenge/tut/index.html",
+		"/Users/krvinayak28/Desktop/codingChallenge/tut/skecth.js",
+		"/Users/krvinayak28/Desktop/hello.jpg",
+		"/Users/krvinayak28/Downloads/main/java/com/android/developer/arsl/musicplayer/MainActivity.java",
+		"/Users/krvinayak28/Downloads/MyAndroidApp/res/layout/main2.xml",
+		"/Users/krvinayak28/Desktop/java/newboston/JButton/GUI.java",
+		"/Users/krvinayak28/Desktop/java/newboston/JButton/apples.java",
+		"/Users/krvinayak28/Desktop/java/newboston/GuiWithFrame/tuna.java",
+		"/Users/krvinayak28/Desktop/java/newboston/GuiWithFrame/Apples.java",
+		"/Users/krvinayak28/Desktop/java/newboston/GuiWithFrame/bucky/tuna.java",
+		"/Users/krvinayak28/Desktop/java/newboston/EventHandling/Tuna.java",
+		"/Users/krvinayak28/Desktop/java/newboston/GuiWithFrame/bucky/apples.java",
+		"/Users/krvinayak28/Desktop/java/newboston/EventHandling/Apples.java",
+		"/Users/krvinayak28/Desktop/java/newboston/GUI.java",
+		"/Users/krvinayak28/Desktop/java/book/BRRead.java",
+		"/Users/krvinayak28/Desktop/java/book/BRReadLines.java",
+		"/Users/krvinayak28/Desktop/java/book/TinyEdit.java",
+		"/Users/krvinayak28/Downloads/Ex_Files_Java_EssT/Exercise Files/04_Primitives/SimpleCalc/src/Calculator.java",
+		"/Users/krvinayak28/Downloads/Ex_Files_Java_EssT/Exercise Files/05_SyntaxAndFlow/SimpleCalc/src/Calculator.java",
+		"/Users/krvinayak28/Downloads/project-based-learning-master/README.md",
+		"/Users/krvinayak28/Desktop/java/book/BRReadLines {",
+		"/Users/krvinayak28/Downloads/twenty-one-pilots-Nico-And-The-Niners-(Official-Audio).srt",
+		"/Users/krvinayak28/Desktop/java/eclipse/awt1.java",
+		"/Users/krvinayak28/Desktop/java/eclipse/StringParse.java",
+		"/Users/krvinayak28/Desktop/java/edx/Main.java",
+		"/Users/krvinayak28/Desktop/java/edx/Battleship.java",
+		"/Users/krvinayak28/Desktop/java/edx/practice4.java",
+		"/Users/krvinayak28/Desktop/java/edx/MazeRunner.java",
+		"/Users/krvinayak28/Desktop/java/edx/OddsAndEvens/OddsAndEvensCopy.java",
+		"/Users/krvinayak28/Desktop/java/edx/MysteryProgram.java",
+		"/Users/krvinayak28/Desktop/java/edx/chapter3.java",
+		"/Users/krvinayak28/Desktop/java/edx/practice1.java",
+		"/Users/krvinayak28/Desktop/java/edx/OddsAndEvens/OddsAndEvens.java",
+		"/Users/krvinayak28/Desktop/java/newboston/TimeClass/TimeClass.java",
+		"/Users/krvinayak28/Desktop/java/newboston/TimeClass/TimeClassMethod.java",
+		"/Users/krvinayak28/Desktop/java/edx/practice2.java",
+		"/Users/krvinayak28/Desktop/java/edx/practice3.java",
+		"/Users/krvinayak28/Desktop/java/newboston/TimeClass.java",
+		"/Users/krvinayak28/Desktop/java/newboston/car3.java",
+		"/Users/krvinayak28/Desktop/java/Hackerrank/CoinToss.java",
+		"/Users/krvinayak28/Desktop/java/Hackerrank/Car.java",
+		"/Users/krvinayak28/Desktop/java/newboston/var_arg.java",
+		"/Users/krvinayak28/Desktop/java/Hackerrank/Solution.java",
+		"/Users/krvinayak28/Desktop/java/Hackerrank/HelloWorld.java",
+		"/Users/krvinayak28/Desktop/java/Var_arg.java",
+		"/Users/krvinayak28/Desktop/java/newboston/var-arg.java",
+		"/Users/krvinayak28/Desktop/java/newboston/RandomNumberGenerator.java",
+		"/Users/krvinayak28/Desktop/java/newboston/ArraysMethods1.java",
+		"/Users/krvinayak28/Desktop/java/newboston/MultiArray.java",
+		"/Users/krvinayak28/Desktop/java/newboston/ArraysMethods.java",
+		"/Users/krvinayak28/Desktop/java/newboston/ArrayasCounter.java",
+		"/Users/krvinayak28/Desktop/java/newboston/Menu.java",
+		"/Users/krvinayak28/Desktop/java/newboston/Averageprogram.java",
+		"/Users/krvinayak28/Desktop/java/newboston/RockPaperScissors.java",
+		"/Users/krvinayak28/Desktop/java/newboston/ArrayTable.java",
+		"/Users/krvinayak28/Desktop/java/newboston/CompoundInterest.java",
+		"/Users/krvinayak28/Desktop/java/Calc.java",
+		"/Users/krvinayak28/Desktop/java/newboston/methods1/apples.java",
+		"/Users/krvinayak28/Desktop/java/newboston/methods1/methods1.java",
+		"/Users/krvinayak28/Desktop/java/newboston/methods1/tuna.java",
+		"/Users/krvinayak28/Desktop/java/newboston/methods1/tuna1.java",
+		"/Users/krvinayak28/Desktop/java/newboston/Averageprogram",
+		"/Users/krvinayak28/Desktop/java/newboston/ifstatement.java",
+		"/Users/krvinayak28/Desktop/java/newboston/methods.java",
+		"/Users/krvinayak28/Desktop/java/newboston/tuna.java",
+		"/Users/krvinayak28/Desktop/java/newboston/methods1/methods.java",
+		"/Users/krvinayak28/Desktop/java/assignment2.java",
+		"/Users/krvinayak28/Desktop/java/StaticVariable2.java",
+		"/Users/krvinayak28/Desktop/java/StaticVariable.java",
+		"/Users/krvinayak28/Desktop/java/var-arg.java",
+		"/Users/krvinayak28/Desktop/java/InstanceVariableAcessing.java",
+		"/Users/krvinayak28/Desktop/java/length_vs_length_method.java",
+		"/Users/krvinayak28/Desktop/java/Array1eg.java",
+		"/Users/krvinayak28/Desktop/java/ArrayTest.java",
+		"/Users/krvinayak28/Desktop/java/ArrayTest1.java",
+		"/Users/krvinayak28/Desktop/java/AreaofCircle.java",
+		"/Users/krvinayak28/Desktop/java/Array1eg.class",
+		"/Users/krvinayak28/Desktop/java/ArrayCorespondingclasses.java",
+		"/Users/krvinayak28/Desktop/java/Light.java",
+		"/Users/krvinayak28/Desktop/java/ArrayCorespondingclasses.class",
+		"/Users/krvinayak28/Desktop/java/clac_python.py",
+		"/Users/krvinayak28/Desktop/java/Average1dArray.java",
+		"/Users/krvinayak28/Desktop/java/CharDemo.java",
+		"/Users/krvinayak28/Desktop/java/BlockTest.java",
+		"/Users/krvinayak28/Desktop/java/ForTest.java",
+		"/Users/krvinayak28/Desktop/java/IfSample.java",
+		"/Users/krvinayak28/Desktop/java/Example2.java",
+		"/Users/krvinayak28/Desktop/java/java1.java",
+		"/Users/krvinayak28/Desktop/socket1.py",
+		"/Users/krvinayak28/Desktop/conn2.py",
+		"/Users/krvinayak28/Downloads/pythongettingstarted/5-python-getting-started-m5-exercise-files/webapp/templates/index.html",
+		"/Users/krvinayak28/Downloads/Projects/eden-master/modules/templates/SAMBRO/Demo/Maldives-Tsunami-MultiLanguage.xml",
+		"/Users/krvinayak28/Downloads/Projects/eden-master/modules/templates/SAMBRO/Demo/ipaddr.py",
+		"/Users/krvinayak28/Desktop/conn.py",
+		"/Users/krvinayak28/Desktop/untitled folder/all des/vinayak.htm",
+		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/webdev/js/js7.html",
+		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/webdev/dancing/index.html",
+		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/webdev/untitled.html",
+		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/webdev/websocket.html",
+		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/webdev/vid/audio.html",
+		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/webdev/proj/index.html",
+		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/j/1.html",
+		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/j/3date.html",
+		"/Users/krvinayak28/Downloads/0071508546_code/ch01/phpvariables.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 112.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 94.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "muypicky.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
