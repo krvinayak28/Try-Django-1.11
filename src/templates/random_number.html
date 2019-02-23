@@ -1,0 +1,93 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Random!</h1>
+<h3>{{ block.super }}</h3>
+<p>
+    This is  code for block in django<br><code>{% verbatim %}
+
+    	{% block content %}<br>
+    	{% endblock content %}
+
+    {% endverbatim %}</code> 
+</p>
+<p>
+{% if num is not None %}
+Random number is {{ num }}
+{% endif %}
+</p>
+<p>
+{% for some_item in some_list %}
+    {% if some_item|divisibleby:"2" %}
+            Even = 
+		{% else %}
+			Odd = 
+    {% endif %}
+    
+    {{ some_item }}<br/>
+
+{% endfor %}
+</p>
+
+
+
+ <div class="a" id="a1">
+ 	<!-- <button type="button" class ="a" name="button" onClick="refreshPage; getRandom">Super Button!</button> -->
+ 	<button type="button" class="a" name ="button" onClick="window.location.reload()">Super Button</button>
+ </div>
+<!--  <button class = "a" type="button" onClick="window.location.reload();">Close</button> -->
+    
+  <div id="output"></div>
+    
+    <script>
+      var link = document.getElementById("a1");
+      var output = document.getElementById("output");
+      // And when the link is clicked:
+      link.addEventListener("click", getRandom,refreshPage, getText);          
+      
+      
+      	function refreshPage(){
+    		window.location.reload();
+			} 
+
+		function getText(){
+        // 16777215 (decimal) == ffffff in hexidecimal
+        var newColorText = '#'+Math.floor(Math.random()*16777215).toString(16);
+        
+        // Convert hex to RGB:
+        var rgbColorText = newColorText.replace('#','');
+        var red = parseInt(rgbColorText.substring(0,2), 16);
+        var green = parseInt(rgbColorText.substring(2,4), 16);
+        var blue = parseInt(rgbColorText.substring(4,6), 16);
+        var resultText = 'rgba(' + red + ',' + green + ',' + blue + ')';
+        
+        // document.body.style.backgroundColor = newColor;
+        document.body.style.color = newColorText;
+        document.write(output.textContent= "Text Color = " + newColorText + " - " + resultText);
+        //output.textContent = newColor + " - " + result;
+      }; 
+       getText();
+
+      	function getRandom(){
+        // 16777215 (decimal) == ffffff in hexidecimal
+        var newColor = '#'+Math.floor(Math.random()*16777215).toString(16);
+        
+        // Convert hex to RGB:
+        var rgbColor = newColor.replace('#','');
+        var r = parseInt(rgbColor.substring(0,2), 16);
+        var g = parseInt(rgbColor.substring(2,4), 16);
+        var b = parseInt(rgbColor.substring(4,6), 16);
+        var result = 'rgba(' + r + ',' + g + ',' + b + ')';
+        
+        document.body.style.backgroundColor = newColor;
+        // document.body.style.color = newColor;
+        output.textContent = "Background Color = "+newColor + " - " + result;
+      };
+      getRandom(); 
+
+      
+  
+</script>
+
+{% endblock content %}

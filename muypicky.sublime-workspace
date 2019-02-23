@@ -4,16 +4,60 @@
 		"selected_items":
 		[
 			[
+				"Re",
+				"Resturants\t(models.py)"
+			],
+			[
+				"re",
+				"restaurants\t(urls.py)"
+			],
+			[
+				"get",
+				"get_context_data"
+			],
+			[
+				"H",
+				"HomeView"
+			],
+			[
+				"C",
+				"ContactView"
+			],
+			[
+				"Co",
+				"ContactView\t(views.py)"
+			],
+			[
+				"conta",
+				"container\t(base.html)"
+			],
+			[
+				"home2",
+				"home2\t(views.py)"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"ra",
+				"random.randint"
+			],
+			[
+				"html",
+				"html_var"
+			],
+			[
 				"co",
 				"contactForm"
 			],
 			[
 				"for",
 				"forms"
-			],
-			[
-				"C",
-				"CharField"
 			],
 			[
 				"IMAGEI",
@@ -142,10 +186,6 @@
 			[
 				"thro",
 				"throws\t(BRRead.java)"
-			],
-			[
-				"re",
-				"read()\tfunc"
 			],
 			[
 				"newStre",
@@ -336,10 +376,6 @@
 				"AreaofCircle"
 			],
 			[
-				"a",
-				"area\t(AreaofCircle.java)"
-			],
-			[
 				"Are",
 				"Area\t(AreaofCircle.java)"
 			],
@@ -436,10 +472,6 @@
 				"subredditName"
 			],
 			[
-				"get",
-				"get"
-			],
-			[
 				"col",
 				"colorDisplay\t(colorgame.js)"
 			],
@@ -482,43 +514,47 @@
 			[
 				"del",
 				"delete"
-			],
-			[
-				"tod",
-				"todos"
-			],
-			[
-				"pro",
-				"prompt"
-			],
-			[
-				"to",
-				"todos"
-			],
-			[
-				"borde",
-				"border-bottom"
-			],
-			[
-				"padd",
-				"padding-top"
-			],
-			[
-				"padding",
-				"padding-top"
-			],
-			[
-				"align",
-				"align-content"
-			],
-			[
-				"font",
-				"font-awesome"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "src/muypicky/settings/base.py",
+			"settings":
+			{
+				"buffer_size": 3183,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/restaurants/admin.py",
+			"settings":
+			{
+				"buffer_size": 185,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/restaurants/models.py",
+			"settings":
+			{
+				"buffer_size": 379,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/restaurants/views.py",
+			"settings":
+			{
+				"buffer_size": 790,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -599,8 +635,35 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/krvinayak28/Dev/trydjango1-11",
+		"/Users/krvinayak28/Dev/trydjango1-11/src",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/muypicky",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/muypicky/settings",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/muypicky/settings/__pycache__",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/restaurants"
+	],
 	"file_history":
 	[
+		"/Users/krvinayak28/Dev/trydjango1-11/src/muypicky/urls.py",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/restaurants/apps.py",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/muypicky/settings/base.py",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/restaurants/admin.py",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/restaurants/models.py",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/restaurants/views.py",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/templates/base.html",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/templates/contact.html",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/templates/home.html",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/templates/snippets/sidebar.html",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/templates/snippets/nav.html",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/templates/about.html",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/templates/snippets/js.html",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/templates/snippets/css.html",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/muypicky/settings/__init__.py",
+		"/Users/krvinayak28/Dev/trydjango1-11/.gitignore",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/muypicky/settings/production.py",
+		"/Users/krvinayak28/Dev/trydjango1-11/src/muypicky/settings/local.py",
 		"/Users/krvinayak28/djangogirls/myvenv/lib/python3.6/site-packages/django/db/models/query.py",
 		"/Users/krvinayak28/learnDjango/tryDjango/src/contact/views.py",
 		"/Users/krvinayak28/learnDjango/tryDjango/src/contact/forms.py",
@@ -710,25 +773,7 @@
 		"/Users/krvinayak28/Desktop/java/CharDemo.java",
 		"/Users/krvinayak28/Desktop/java/BlockTest.java",
 		"/Users/krvinayak28/Desktop/java/ForTest.java",
-		"/Users/krvinayak28/Desktop/java/IfSample.java",
-		"/Users/krvinayak28/Desktop/java/Example2.java",
-		"/Users/krvinayak28/Desktop/java/java1.java",
-		"/Users/krvinayak28/Desktop/socket1.py",
-		"/Users/krvinayak28/Desktop/conn2.py",
-		"/Users/krvinayak28/Downloads/pythongettingstarted/5-python-getting-started-m5-exercise-files/webapp/templates/index.html",
-		"/Users/krvinayak28/Downloads/Projects/eden-master/modules/templates/SAMBRO/Demo/Maldives-Tsunami-MultiLanguage.xml",
-		"/Users/krvinayak28/Downloads/Projects/eden-master/modules/templates/SAMBRO/Demo/ipaddr.py",
-		"/Users/krvinayak28/Desktop/conn.py",
-		"/Users/krvinayak28/Desktop/untitled folder/all des/vinayak.htm",
-		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/webdev/js/js7.html",
-		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/webdev/dancing/index.html",
-		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/webdev/untitled.html",
-		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/webdev/websocket.html",
-		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/webdev/vid/audio.html",
-		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/webdev/proj/index.html",
-		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/j/1.html",
-		"/Users/krvinayak28/Desktop/untitled folder/all des/des_files/Study/prog/j/3date.html",
-		"/Users/krvinayak28/Downloads/0071508546_code/ch01/phpvariables.php"
+		"/Users/krvinayak28/Desktop/java/IfSample.java"
 	],
 	"find":
 	{
@@ -736,9 +781,13 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 101.0,
 		"where_history":
 		[
+			"/Users/krvinayak28/Dev/trydjango1-11,",
+			"/Users/krvinayak28/Dev/trydjango1-11,/",
+			"/Users/krvinayak28/Dev/trydjango1-11",
+			""
 		]
 	},
 	"find_state":
@@ -746,6 +795,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Resturants",
+			"Restaurants",
+			"Resturantss",
+			"home4",
+			"url(r'^$', home),",
+			"def home(request):\n\tnum = None\n\tsome_list = [\n\t\trandom.randint(0,100),\n\t\trandom.randint(0,100),\n\t\trandom.randint(0,100)\n\t]\n\tcondition_bool_item = False\n\tif condition_bool_item:\n\t\tnum = random.randint(0,100)\n\tcontext= {\n\t\t\"num\": num,\n\t\t\"some_list\": some_list\n\t}\n\n\treturn render(request, 'base.html', context)\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -753,6 +808,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Resturants",
+			"home3",
+			"home4"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -763,8 +821,128 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/muypicky/settings/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3004,
+								3004
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1230.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/restaurants/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"SL.105.region_keys":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/restaurants/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 218.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/restaurants/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -774,7 +952,7 @@
 	},
 	"input":
 	{
-		"height": 38.0
+		"height": 42.0
 	},
 	"layout":
 	{
@@ -823,7 +1001,7 @@
 	"project": "muypicky.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -861,7 +1039,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 163.0,
+	"side_bar_width": 50.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
